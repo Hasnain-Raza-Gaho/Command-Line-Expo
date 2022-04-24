@@ -1,0 +1,40 @@
+library of js..
+
+2 differenct feauture...
+expo.... => template...(everything allready created..)
+react native.... (start with zero) its setup is difficult...
+
+
+react native... mobile apps used ... fb... olx...
+
+react native is faster ... as compare to fluttur..
+write too much code... as flutter...
+
+fluttur... code.. km hota he likhna..
+
+install expo  cli... command line interface
+
+install react native cli...
+
+
+npm install -g expo-cli
+
+expo init awesomeproject
+select blank..
+
+
+important file is.. app.js
+
+expo start....
+npm start...
+
+press w... for web...
+
+
+
+div >>> view
+
+h1, h2,h3... >>>> Text
+
+
+
